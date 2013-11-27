@@ -4,7 +4,7 @@ inherit cross gtkmm
 
 NAME="mingw64-i686-goocanvasmm2.0"
 VERSION=1.90.9
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="C++ goocanvas bindings for Win32 toolchain"
 DESCRIPTION="This package does NOT contain cygwin binaries.  Instead, it
